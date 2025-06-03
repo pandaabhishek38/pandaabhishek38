@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-hero.vercel.app/api?name=Abhishek%20Panda&description=Full-Stack%20Developer%20|%20ML%20Engineer%20|%20System%20Design%20Enthusiast" alt="hero-banner" />
-</p>
-
 ## 👋 Hi, I'm Abhishek Panda
 
 I'm a Full-Stack Software Engineer and M.S. Computer Science graduate from Rutgers University, passionate about building scalable systems and applying machine learning in real-world scenarios. From backend APIs to ML pipelines, I enjoy solving tough problems with clean, production-grade code.
