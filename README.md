@@ -1,86 +1,154 @@
-## 👋 Hi, I'm Abhishek Panda
+ <!-- Profile header -->
 
-I'm a Full-Stack Software Engineer and M.S. Computer Science graduate from Rutgers University, passionate about building scalable systems and applying machine learning in real-world scenarios. From backend APIs to ML pipelines, I enjoy solving tough problems with clean, production-grade code.
+<div align="center">
 
-🔗 **Portfolio:** [abhishekrabindrapanda-portfolio.vercel.app](https://abhishekrabindrapanda-portfolio.vercel.app)  
-📧 **Email:** pandaabhishek34@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/abhishek-rabindra-panda](https://www.linkedin.com/in/abhishek-rabindra-panda)  
-📂 **Projects:** [Portfolio – Projects](https://abhishekrabindrapanda-portfolio.vercel.app/projects)
+# Abhishek Panda
 
----
+### Software Engineer · Full-Stack · Backend · AI/ML
 
-### 🧰 Tech Stack & Tools
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Developing+full-stack+applications;Exploring+AI-powered+solutions;Turning+ideas+into+production-ready+software" alt="Typing introduction" />
+</a>
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+<p>
+  <a href="https://abhishekrabindrapanda-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-rabindra-panda"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pandaabhishek34@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-**Web & Frameworks:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-**ML / AI:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=openai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## About Me
 
-**🔐 Online Banking System**  
-A secure banking platform with real-time transactions, credit assessments, and third-party API integrations.  
-[GitHub Repo](https://github.com/pandaabhishek38/Online-Banking-Application)
+I'm a **Software Engineer** with an M.S. in Computer Science from **Rutgers University**, interested in building scalable software systems and applying AI to practical problems.
 
-**📦 Online Auction System**  
-A real-time auction platform with auto-bidding, bidding history, alerts, and secure transactions.  
-[GitHub Repo](https://github.com/pandaabhishek38/Online-Auction-System)
+My work spans backend engineering, full-stack development, data pipelines, cloud infrastructure, and machine learning. I enjoy taking ideas from design and implementation through deployment, with an emphasis on maintainable code and reliable systems.
 
-**🧠 Melanoma Detection**  
-CNN-based classifier for melanoma detection using skin lesion images (96% accuracy).  
-[GitHub Repo](https://github.com/pandaabhishek38/Melanoma-Detection-Using-Skin-Lesion-Trained-Models)
-
-**🌱 Plant Species Classification**  
-A deep learning model for identifying plant species using augmented and pre-trained CNN models.  
-[GitHub Repo](https://github.com/pandaabhishek38/Advanced-Plant-Species-Classification)
+* 🎓 M.S. in Computer Science — Rutgers University
+* 💻 Interested in backend engineering, full-stack development, and AI/ML
+* ⚙️ Experience building APIs, microservices, data workflows, and production applications
+* 🤖 Exploring LLM integrations, intelligent automation, and scalable systems
+* 🌐 Based in Bengaluru, India
 
 ---
 
-### 📌 Currently
-- Open to **full-time opportunities** in backend, full-stack, or ML roles
-- Exploring LLM integrations and real-time system scaling
-- Continuously improving and contributing to open-source projects
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,go" />
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask,django,spring" />
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,kafka" />
+</p>
+
+**Additional:** Prisma · Hibernate
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,githubactions,jenkins,vercel" />
+</p>
+
+### Machine Learning & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Additional:** MLflow · LangChain · OpenAI API · Claude API · Gemini API · scikit-learn · Keras
+
+### Tools & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+**Additional:** JUnit · Jasmine · Razorpay · AiSensy · Stockfish
 
 ---
 
-_Thanks for visiting! Feel free to connect or check out more at my [portfolio](https://abhishekrabindrapanda-portfolio.vercel.app) ✨_
+## Featured Projects
+
+A selection of projects spanning full-stack development, backend engineering, AI, and intelligent systems.
+
+### 🤖 [ERIC Robotics Dashboard](https://github.com/pandaabhishek38/eric-insight-dashboard)
+
+An interactive robotics dashboard featuring 3D point-cloud visualization, simulated robot controls, mission management, and system monitoring.
+
+**Tech:** React · TypeScript · Three.js · React Three Fiber · Tailwind CSS
+
+### 🏦 [Online Banking System](https://github.com/pandaabhishek38/Online-Banking-Application)
+
+A full-stack banking application with account management, secure fund transfers, transaction workflows, credit products, and third-party integrations.
+
+**Tech:** JavaScript · Node.js · Express.js · MySQL · JWT · Google OAuth2
+
+### 🔨 [Online Auction System](https://github.com/pandaabhishek38/Online-Auction-System)
+
+An online auction platform supporting product listings, manual and automatic bidding, auction management, bid history, and administrative workflows.
+
+**Tech:** Java · Servlets · JSP · MySQL · JDBC
+
+### 🧩 [Ghost in the Maze](https://github.com/pandaabhishek38/Ghost-in-the-maze)
+
+Autonomous pathfinding agents navigating dynamic mazes with moving threats, using search algorithms, path planning, and local threat avoidance.
+
+**Tech:** Python · A* · DFS · Graph Algorithms · Simulation
+
+### 🧠 [Circle of Life – Intelligent Agents](https://github.com/pandaabhishek38/Circle-of-life-part-2)
+
+Utility-based predator-prey agents using value iteration, neural network approximations, and probabilistic reasoning in graph-based environments.
+
+**Tech:** Python · NumPy · Neural Networks · Value Iteration · Graph Algorithms
+
+### 🔬 [Melanoma Detection](https://github.com/pandaabhishek38/Melanoma-Detection-Using-Skin-Lesion-Trained-Models)
+
+An evaluation of CNN and transformer-based architectures for classifying skin lesions using the ISIC-2019 dataset.
+
+**Tech:** Python · PyTorch · Torchvision · timm · Deep Learning
+
+---
+
+## Currently Working On
+
+* Building full-stack features and backend services for chess technology platforms.
+* Developing tournament data ingestion, validation, and AI-assisted document extraction workflows.
+* Working with cloud infrastructure, live-streaming pipelines, and real-time integrations.
+* Exploring LLM-powered workflows and intelligent automation.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pandaabhishek38&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=60A5FA&text_color=9CA3AF" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandaabhishek38&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=9CA3AF" height="165" alt="Most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for stopping by!**
+
+Feel free to explore my repositories or connect with me.
+
+<a href="https://abhishekrabindrapanda-portfolio.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/abhishek-rabindra-panda">LinkedIn</a> · <a href="mailto:pandaabhishek34@gmail.com">Email</a>
+
+</div>
