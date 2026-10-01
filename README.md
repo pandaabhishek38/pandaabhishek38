@@ -7,8 +7,7 @@
 ### Software Engineer · Full-Stack · Backend · AI/ML
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Developing+full-stack+applications;Exploring+AI-powered+solutions;Turning+ideas+into+production-ready+software" alt="Typing introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Software+Engineer.;Backend+by+inclination.;Full-stack+by+necessity.;Always+curious+about+what%27s+under+the+hood." alt="Typing introduction" /></a>
 
 <p>
   <a href="https://abhishekrabindrapanda-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -128,18 +127,6 @@ An evaluation of CNN and transformer-based architectures for classifying skin le
 * Developing tournament data ingestion, validation, and AI-assisted document extraction workflows.
 * Working with cloud infrastructure, live-streaming pipelines, and real-time integrations.
 * Exploring LLM-powered workflows and intelligent automation.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pandaabhishek38&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=60A5FA&text_color=9CA3AF" height="165" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandaabhishek38&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=9CA3AF" height="165" alt="Most used languages" />
-
-</div>
 
 ---
 
